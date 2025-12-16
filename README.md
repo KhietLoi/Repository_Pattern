@@ -1,6 +1,6 @@
 # Shop Application (.NET Console App)
 
-Ứng dụng mẫu mô phỏng hệ thống bán hàng đơn giản sử dụng kiến trúc **Repository Pattern** và **Unit of Work**. Hỗ trợ thao tác với đơn hàng (Order), sản phẩm (Product), sử dụng cơ sở dữ liệu SQL Server và In-Memory.
+Module mô phỏng hệ thống bán hàng đơn giản sử dụng kiến trúc **Repository Pattern** và **Unit of Work**. Hỗ trợ thao tác với đơn hàng (Order), sản phẩm (Product), sử dụng cơ sở dữ liệu SQL Server và In-Memory.
 
 ## Kiến trúc sử dụng
 - Repository Pattern
